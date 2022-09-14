@@ -107,7 +107,7 @@ p {
 }
 
 /* removed 2 of the classes specifying the img properties and grouped them into 1 */
-.benefit-sidebar img, .benefit-brand img, .benefit-cost img{
+.benefit-sidebar img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
