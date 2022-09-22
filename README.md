@@ -5,6 +5,8 @@
 ## Description
 Horiseon Challenge: Improve the functionality of the website and meet accessibility standards.
 
+Link to deployed webpage: https://ramsseslopez.github.io/Horiseon-Website-Services/#search-engine-optimization
+
 Website additions,
 
 Semantic elements.
